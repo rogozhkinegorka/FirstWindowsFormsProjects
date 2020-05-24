@@ -1,9 +1,0 @@
-C:\EnglishProg\Mili_KM\Mili_KM\bin\Debug\Mili_KM.exe.config
-C:\EnglishProg\Mili_KM\Mili_KM\bin\Debug\Mili_KM.exe
-C:\EnglishProg\Mili_KM\Mili_KM\bin\Debug\Mili_KM.pdb
-C:\EnglishProg\Mili_KM\Mili_KM\obj\Debug\Mili_KM.csprojAssemblyReference.cache
-C:\EnglishProg\Mili_KM\Mili_KM\obj\Debug\Mili_KM.Form1.resources
-C:\EnglishProg\Mili_KM\Mili_KM\obj\Debug\Mili_KM.Properties.Resources.resources
-C:\EnglishProg\Mili_KM\Mili_KM\obj\Debug\Mili_KM.csproj.GenerateResource.cache
-C:\EnglishProg\Mili_KM\Mili_KM\obj\Debug\Mili_KM.exe
-C:\EnglishProg\Mili_KM\Mili_KM\obj\Debug\Mili_KM.pdb
