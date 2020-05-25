@@ -16,3 +16,12 @@ C:\EnglishProg\OOP\ButtonDvigaetsya\ButtonDvigaetsya\obj\Debug\ButtonDvigaetsya.
 C:\EnglishProg\OOP\ButtonDvigaetsya\ButtonDvigaetsya\obj\Debug\ButtonDvigaetsya.csproj.GenerateResource.cache
 C:\EnglishProg\OOP\ButtonDvigaetsya\ButtonDvigaetsya\obj\Debug\ButtonDvigaetsya.exe
 C:\EnglishProg\OOP\ButtonDvigaetsya\ButtonDvigaetsya\obj\Debug\ButtonDvigaetsya.pdb
+C:\EnglishProg\FirstWindowsFormsProjects\ButtonDvigaetsya\ButtonDvigaetsya\bin\Debug\ButtonDvigaetsya.exe.config
+C:\EnglishProg\FirstWindowsFormsProjects\ButtonDvigaetsya\ButtonDvigaetsya\bin\Debug\ButtonDvigaetsya.exe
+C:\EnglishProg\FirstWindowsFormsProjects\ButtonDvigaetsya\ButtonDvigaetsya\bin\Debug\ButtonDvigaetsya.pdb
+C:\EnglishProg\FirstWindowsFormsProjects\ButtonDvigaetsya\ButtonDvigaetsya\obj\Debug\ButtonDvigaetsya.csprojAssemblyReference.cache
+C:\EnglishProg\FirstWindowsFormsProjects\ButtonDvigaetsya\ButtonDvigaetsya\obj\Debug\ButtonDvigaetsya.Form1.resources
+C:\EnglishProg\FirstWindowsFormsProjects\ButtonDvigaetsya\ButtonDvigaetsya\obj\Debug\ButtonDvigaetsya.Properties.Resources.resources
+C:\EnglishProg\FirstWindowsFormsProjects\ButtonDvigaetsya\ButtonDvigaetsya\obj\Debug\ButtonDvigaetsya.csproj.GenerateResource.cache
+C:\EnglishProg\FirstWindowsFormsProjects\ButtonDvigaetsya\ButtonDvigaetsya\obj\Debug\ButtonDvigaetsya.exe
+C:\EnglishProg\FirstWindowsFormsProjects\ButtonDvigaetsya\ButtonDvigaetsya\obj\Debug\ButtonDvigaetsya.pdb

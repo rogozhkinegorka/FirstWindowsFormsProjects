@@ -1,0 +1,9 @@
+C:\EnglishProg\FirstWindowsFormsProjects\Praktika16_ili_17\Praktika16_ili_17\bin\Debug\Praktika16_ili_17.exe.config
+C:\EnglishProg\FirstWindowsFormsProjects\Praktika16_ili_17\Praktika16_ili_17\bin\Debug\Praktika16_ili_17.exe
+C:\EnglishProg\FirstWindowsFormsProjects\Praktika16_ili_17\Praktika16_ili_17\bin\Debug\Praktika16_ili_17.pdb
+C:\EnglishProg\FirstWindowsFormsProjects\Praktika16_ili_17\Praktika16_ili_17\obj\Debug\Praktika16_ili_17.csprojAssemblyReference.cache
+C:\EnglishProg\FirstWindowsFormsProjects\Praktika16_ili_17\Praktika16_ili_17\obj\Debug\Praktika16_ili_17.Form1.resources
+C:\EnglishProg\FirstWindowsFormsProjects\Praktika16_ili_17\Praktika16_ili_17\obj\Debug\Praktika16_ili_17.Properties.Resources.resources
+C:\EnglishProg\FirstWindowsFormsProjects\Praktika16_ili_17\Praktika16_ili_17\obj\Debug\Praktika16_ili_17.csproj.GenerateResource.cache
+C:\EnglishProg\FirstWindowsFormsProjects\Praktika16_ili_17\Praktika16_ili_17\obj\Debug\Praktika16_ili_17.exe
+C:\EnglishProg\FirstWindowsFormsProjects\Praktika16_ili_17\Praktika16_ili_17\obj\Debug\Praktika16_ili_17.pdb
